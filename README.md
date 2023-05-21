@@ -1,11 +1,12 @@
 <div>
   <h1 align="left">
     Hi there, I am 
-    <a href="https://www.linkedin.com/in/brunoperillo/">Bruno Perillo</a>
+    <a href="https://www.perillo.xyz">Bruno Perillo</a>
+    <a href="https://www.perillo.xyz" target="_blank"><img src="https://img.shields.io/badge/perillo.xyz-000000?style=for-the-badge&logoColor=white" target="_blank"></a>  
     <a href="mailto:bruno.geofisica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/brunoperillo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </h1>
-and I am a machine learning and AI researcher with a strong passion for education and genealogy!
+and I am a machine learning and AI researcher with a strong passion for education, earth sciences, plants and genealogy!
 
 
 
