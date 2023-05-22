@@ -6,7 +6,7 @@
     <a href="mailto:bruno.geofisica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/brunoperillo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </h1>
-and I am a machine learning and AI researcher with a strong passion for education, earth sciences, plants and genealogy!
+I am currently pursuing a PhD in Information Engineering at UFABC (Brazil), conducting research focused on AI and Computer Vision, driven by a strong passion for education, earth sciences, plants, and genealogy.
 
 
 
@@ -37,6 +37,6 @@ and I am a machine learning and AI researcher with a strong passion for educatio
 [![](https://img.shields.io/badge/-🔬%20Melanoma%20detection-000)](https://github.com/brunoperillo)
 
 <div>
-  <h1 align="center"
+  <h1 align="center">
       
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunoperillo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoperillo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
