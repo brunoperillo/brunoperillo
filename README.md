@@ -31,11 +31,14 @@ I am currently pursuing a PhD in Information Engineering at UFABC (Brazil), cond
 
 ###  Projects
 
-[![](https://img.shields.io/badge/-🧬%20increment%20of%20spatial%20resolution-000)](https://github.com/brunoperillo)
-[![](https://img.shields.io/badge/-🦠%20Kohonen%20imputation-000)](https://github.com/brunoperillo)
+[![](https://img.shields.io/badge/-🌐%20Compass%20UOL/AWS%20Scholarship%20Program-000)](https://github.com/brunoperillo/Compass-pb-aws-2023-Univesp)
+[![](https://img.shields.io/badge/-🧬%20Increment%20of%20Spatial%20Resolution-000)](https://github.com/brunoperillo)
+[![](https://img.shields.io/badge/-🦠%20Kohonen%20Imputation-000)](https://github.com/brunoperillo)
 [![](https://img.shields.io/badge/-📝%20Neuroimage%20GANs-000)](https://github.com/brunoperillo)
-[![](https://img.shields.io/badge/-🔬%20Melanoma%20detection-000)](https://github.com/brunoperillo)
+[![](https://img.shields.io/badge/-🔬%20Melanoma%20Detection-000)](https://github.com/brunoperillo)
 
+  
+  
 <div>
   <h1 align="center">
       
